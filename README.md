@@ -3,6 +3,8 @@
 ## Objective
 We create a decentralized application (dApp) that allows users to list, purchase, and rate AI models. The core functionality is managed by a smart contract, while the frontend provides an intuitive interface for users to interact with the blockchain.
 
+Contract Address: 0x5CCd34AADA8D03584a3d94C438Eff058B50cE81A
+
 ---
 
 ## Overview
@@ -136,7 +138,7 @@ Here are some screenshots showcasing the core features of the AI Model Marketpla
 ### Quick Start
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gemdivk/Assignment2.git
+   git clone https://github.com/Milterdone/Assignment2.git
    cd Assignment2
    ```
 2. Open `index.html` in a browser.
